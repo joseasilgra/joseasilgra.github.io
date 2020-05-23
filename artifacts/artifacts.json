@@ -1,6 +1,8 @@
-{
-	"name": "plugin-loader-1.0-all.jar",
-	"hash": "b5b9f7f64da041139238a47c372afdae22cbfec84b7ac9fe5361db842a31da51",
-	"path": "https://joseasilgra.github.io/artifacts/plugin-loader-1.0-all.jar",
-	"size": 8158419
-}
+[
+	{
+		"name": "plugin-loader-1.0-all.jar",
+		"hash": "b5b9f7f64da041139238a47c372afdae22cbfec84b7ac9fe5361db842a31da51",
+		"path": "https://joseasilgra.github.io/artifacts/plugin-loader-1.0-all.jar",
+		"size": 8158419
+	}
+]
